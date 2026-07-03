@@ -1,0 +1,2 @@
+# kronenpalacelodge
+Static site: kronenpalacelodge
